@@ -17,5 +17,3 @@ To run your app on Android:
 
 References for building React Native Apps:
 * [React Native Cheat Sheet](https://rationalappdev.com/react-native-cheat-sheet/)[.](https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript)
-
-==========
