@@ -2,7 +2,7 @@ Basic boiler plate for a react PropertyFinder app produced using react-native in
 ===============================================================================
 
 * To create a React Native app using the `react-native` cli[:](https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript)
-`react-native init MyAppName`
+`react-native init [MyAppName](https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript)`
 
 * To run your app on iOS:
    `cd /Volumes/External 1TB/Dev/ReactNativeProjects/PropertyFinder`
