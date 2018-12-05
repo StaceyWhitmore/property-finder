@@ -15,4 +15,5 @@ To run your app on Android:
    Have an Android emulator running (quickest way to get started), or a device connected
    `react-native run-android
 
-   
+References for building React Native Apps:
+* [React Native Cheat Sheet](https://rationalappdev.com/react-native-cheat-sheet/)
