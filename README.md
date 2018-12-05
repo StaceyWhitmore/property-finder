@@ -20,3 +20,5 @@ References for building React Native Apps:
 
 Tutorials
 * [https://facebook.github.io/react-native/docs/getting-started.html](https://facebook.github.io/react-native/docs/getting-started.html)
+
+* [Installing Glog Manually](https://github.com/facebook/react-native/issues/14382#issuecomment-316622145)
